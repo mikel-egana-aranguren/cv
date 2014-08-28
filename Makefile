@@ -1,4 +1,4 @@
-all: cmungall_cv.pdf
+all: mikel_egana_aranguren_cv.pdf
 
 %.pdf: %.tex
 	latex $* && latex $* && bibtex $* && latex $* && pdflatex $*
