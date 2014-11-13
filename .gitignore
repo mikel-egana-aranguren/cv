@@ -1,0 +1,10 @@
+parse_bib_out
+cmungall_cv.*
+curricul_long.tex
+*.aux
+*.dvi
+*.log 
+*.out
+*.blg
+*.bbl
+*.sty
