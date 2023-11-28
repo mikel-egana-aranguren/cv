@@ -1,7 +1,7 @@
 cv.code-workspace
 parse_bib_out
 cmungall_cv.*
-curricul_long.tex
+curricul_long.*
 *.aux
 *.dvi
 *.log 
